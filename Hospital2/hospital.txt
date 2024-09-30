@@ -1,0 +1,41 @@
+2
+Obstetrics 
+1
+Dana Cohen
+1 5 
+2
+Doctor
+Eliav Hauon
+3 Gynecologist
+Surgeon
+Magi Azarzar 
+4 obstetrician
+20 
+Neuro 
+1
+Lihi Griner
+2 7 
+2
+DoctorResearcher
+Tom Levi
+5 Neurologist
+0
+SurgeonResearcher
+Alex Shults
+6 Neurologist
+1 1
+The human brain
+DM
+9 9 2022
+
+1
+Yuli Azulay
+7 2
+Brain
+Doctors Magazine
+5 11 2021
+Cancer
+Doctors Magazine
+1 12 2022
+
+
