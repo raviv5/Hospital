@@ -1,2 +1,0 @@
-C:\Users\itayr\OneDrive\Desktop\שנה ב\cpp\hospital\Hospital2\x64\Debug\Hospital2.exe
-C:\Users\itayr\OneDrive\Desktop\second year\cpp\hospital\Hospital2\x64\Debug\Hospital2.exe
